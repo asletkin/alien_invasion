@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5835d304-0ca5-4e68-af54-decb6d90f37e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -49,9 +50,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\sletkin001\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
@@ -95,21 +96,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="692" height="231" key="GridCell.Tab.0.bottom" timestamp="1593973426761">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="681" y="243" key="#alien_invasion" timestamp="1594018788492">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="681" y="243" key="#alien_invasion/0.0.1920.1040@0.0.1920.1040" timestamp="1594018788492" />
+    <state width="731" height="215" key="GridCell.Tab.0.bottom" timestamp="1594026646954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="731" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594026646954" />
     <state width="692" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593973426761" />
-    <state width="692" height="231" key="GridCell.Tab.0.center" timestamp="1593973426760">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="731" height="215" key="GridCell.Tab.0.center" timestamp="1594026646954">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="731" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594026646954" />
     <state width="692" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593973426760" />
-    <state width="692" height="231" key="GridCell.Tab.0.left" timestamp="1593973426760">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="731" height="215" key="GridCell.Tab.0.left" timestamp="1594026646954">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="731" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594026646954" />
     <state width="692" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593973426760" />
-    <state width="692" height="231" key="GridCell.Tab.0.right" timestamp="1593973426761">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="731" height="215" key="GridCell.Tab.0.right" timestamp="1594026646954">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="731" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594026646954" />
     <state width="692" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593973426761" />
+    <state x="715" y="259" key="SettingsEditor" timestamp="1594025942287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="259" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594025942287" />
   </component>
 </project>
