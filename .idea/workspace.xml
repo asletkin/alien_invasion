@@ -11,8 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5835d304-0ca5-4e68-af54-decb6d90f37e" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+>>>>>>> 12c8e1e6cfc3802bd15d78cabeea76692a6fab01
+>>>>>>> 51d75ce908296f9d1f9b697338b6b4b4c0d8c30a
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +105,24 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
+    <state width="692" height="218" key="GridCell.Tab.0.bottom" timestamp="1594024788011">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="692" height="218" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594024788011" />
+    <state width="692" height="218" key="GridCell.Tab.0.center" timestamp="1594024788010">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="692" height="218" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594024788010" />
+    <state width="692" height="218" key="GridCell.Tab.0.left" timestamp="1594024788010">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="692" height="218" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594024788010" />
+    <state width="692" height="218" key="GridCell.Tab.0.right" timestamp="1594024788010">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="692" height="218" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594024788010" />
+=======
     <state x="681" y="243" key="#alien_invasion" timestamp="1594018788492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -122,5 +151,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="259" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594025942287" />
+>>>>>>> 12c8e1e6cfc3802bd15d78cabeea76692a6fab01
   </component>
 </project>
