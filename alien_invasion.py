@@ -16,11 +16,12 @@ def run_game():
     # Назначение цвета фона
     # bg_color = (230, 230, 230)
     # Создание карабля
-    ship = Ship(screen)
+    ship = Ship(ai_settings, screen)
     # Запуск основного цикла игры
     while True:
         # Отслеживание событий клавиатуры и мыши
-        gf.check_events()
+        gf.check_events(ship)
+        ship.update()
         # При каждом проходе цикла перерисовывается экран
         gf.update_screen(ai_settings, screen, ship)
 
